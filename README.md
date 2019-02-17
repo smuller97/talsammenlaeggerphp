@@ -1,4 +1,4 @@
-# talsammenlaeggerphp
+# Talsammenlaeggerphp
 
 I dette repository findes koden til en mini lommeregner skrevet i php. Der er både plus,minus, gange og divider i php-lommeregneren.
 
